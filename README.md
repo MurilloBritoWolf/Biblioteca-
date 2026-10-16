@@ -7,7 +7,7 @@ Resumo do conceito e da aplicação para fins de aprendizagem
 
 #Classe e objeto	Livro e AppBiblioteca
 
-#Construtor	__init__()
+#(Construtor	__init__())
 
 #Encapsulamento	_quantidade
 
