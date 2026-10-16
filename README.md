@@ -4,16 +4,27 @@ Biblioteca de livros feito no Treeview
 Resumo do conceito e da aplicação para fins de aprendizagem
 
 #Conceito	Onde aparece no código
+
 #Classe e objeto	Livro e AppBiblioteca
+
 #Construtor	__init__()
+
 #Encapsulamento	_quantidade
+
 #Propriedades	@property e @quantidade.setter
+
 #Lista de objetos	self.livros = []
+
 #Campos de entrada	tk.Entry()
+
 #Eventos	command=self.cadastrar
+
 #Layout	pack() e grid()
+
 #Tabela	ttk.Treeview()
+
 #Inserção na tabela	self.tabela.insert()
+
 #Validação	if, try/except e messagebox
 
 
